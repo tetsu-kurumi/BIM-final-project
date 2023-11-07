@@ -1,10 +1,16 @@
 {
 	"folders": [
 		{
-			"path": "../tetsu-kurumi-cpsc459-assignments/assignment-1/shutter_lookat"
+			"path": "../BIM-final-project/evaluation_model"
 		},
 		{
-			"path": "../tetsu-kurumi-cpsc459-assignments/assignment-2"
+			"path": "../BIM-final-project/imitation_learning"
+		},
+		{
+			"path": "../BIM-final-project/rl"
+		},
+		{
+			"path": "../BIM-final-project/segmentation"
 		}
 	]
 }
