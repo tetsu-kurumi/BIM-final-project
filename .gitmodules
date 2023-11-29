@@ -1,0 +1,6 @@
+[submodule "imitation_learning/imitation_learning/opencv"]
+	path = imitation_learning/imitation_learning/opencv
+	url = https://github.com/opencv/opencv.git
+[submodule "imitation_learning/facedetection_model/opencv"]
+	path = imitation_learning/facedetection_model/opencv
+	url = https://github.com/opencv/opencv.git
