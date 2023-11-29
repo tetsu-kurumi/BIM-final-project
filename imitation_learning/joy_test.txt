@@ -1,0 +1,5031 @@
+header: 
+  seq: 158
+  stamp: 
+    secs: 1701290463
+    nsecs: 868279863
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 159
+  stamp: 
+    secs: 1701290464
+    nsecs:  68587575
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 160
+  stamp: 
+    secs: 1701290464
+    nsecs: 268855791
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 161
+  stamp: 
+    secs: 1701290464
+    nsecs: 469384868
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 162
+  stamp: 
+    secs: 1701290464
+    nsecs: 669692516
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 163
+  stamp: 
+    secs: 1701290464
+    nsecs: 870016647
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 164
+  stamp: 
+    secs: 1701290465
+    nsecs:  70325945
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 165
+  stamp: 
+    secs: 1701290465
+    nsecs: 270637091
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 166
+  stamp: 
+    secs: 1701290465
+    nsecs: 470866680
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 167
+  stamp: 
+    secs: 1701290465
+    nsecs: 671131909
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 168
+  stamp: 
+    secs: 1701290465
+    nsecs: 871456788
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 169
+  stamp: 
+    secs: 1701290466
+    nsecs:  71764629
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 170
+  stamp: 
+    secs: 1701290466
+    nsecs: 271903262
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 171
+  stamp: 
+    secs: 1701290466
+    nsecs: 472320492
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 172
+  stamp: 
+    secs: 1701290466
+    nsecs: 672632044
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 173
+  stamp: 
+    secs: 1701290466
+    nsecs: 872939427
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 174
+  stamp: 
+    secs: 1701290467
+    nsecs:  73251659
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 175
+  stamp: 
+    secs: 1701290467
+    nsecs: 273368792
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 176
+  stamp: 
+    secs: 1701290467
+    nsecs: 473738157
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 177
+  stamp: 
+    secs: 1701290467
+    nsecs: 674046804
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 178
+  stamp: 
+    secs: 1701290467
+    nsecs: 874354365
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 179
+  stamp: 
+    secs: 1701290468
+    nsecs:  74610595
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 180
+  stamp: 
+    secs: 1701290468
+    nsecs: 274932886
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 181
+  stamp: 
+    secs: 1701290468
+    nsecs: 475321890
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 182
+  stamp: 
+    secs: 1701290468
+    nsecs: 675633724
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 183
+  stamp: 
+    secs: 1701290468
+    nsecs: 875941043
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 184
+  stamp: 
+    secs: 1701290469
+    nsecs:  76237144
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 185
+  stamp: 
+    secs: 1701290469
+    nsecs: 276526508
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 186
+  stamp: 
+    secs: 1701290469
+    nsecs: 476911777
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 187
+  stamp: 
+    secs: 1701290469
+    nsecs: 677256294
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 188
+  stamp: 
+    secs: 1701290469
+    nsecs: 877543696
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 189
+  stamp: 
+    secs: 1701290470
+    nsecs:  77854898
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 190
+  stamp: 
+    secs: 1701290470
+    nsecs: 278114845
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 191
+  stamp: 
+    secs: 1701290470
+    nsecs: 478550824
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 192
+  stamp: 
+    secs: 1701290470
+    nsecs: 678871918
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 193
+  stamp: 
+    secs: 1701290470
+    nsecs: 879181777
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 194
+  stamp: 
+    secs: 1701290471
+    nsecs:  79450176
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 195
+  stamp: 
+    secs: 1701290471
+    nsecs: 279764396
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 196
+  stamp: 
+    secs: 1701290471
+    nsecs: 480168044
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 197
+  stamp: 
+    secs: 1701290471
+    nsecs: 680477078
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 198
+  stamp: 
+    secs: 1701290471
+    nsecs: 880787028
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 199
+  stamp: 
+    secs: 1701290472
+    nsecs:  81046089
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 200
+  stamp: 
+    secs: 1701290472
+    nsecs: 281308681
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 201
+  stamp: 
+    secs: 1701290472
+    nsecs: 481684900
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 202
+  stamp: 
+    secs: 1701290472
+    nsecs: 681957521
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 203
+  stamp: 
+    secs: 1701290472
+    nsecs: 882226423
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 204
+  stamp: 
+    secs: 1701290473
+    nsecs:  82499593
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 205
+  stamp: 
+    secs: 1701290473
+    nsecs: 282764565
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 206
+  stamp: 
+    secs: 1701290473
+    nsecs: 483135637
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 207
+  stamp: 
+    secs: 1701290473
+    nsecs: 683442582
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 208
+  stamp: 
+    secs: 1701290473
+    nsecs: 883754190
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 209
+  stamp: 
+    secs: 1701290474
+    nsecs:  84064339
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 210
+  stamp: 
+    secs: 1701290474
+    nsecs: 284384542
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 211
+  stamp: 
+    secs: 1701290474
+    nsecs: 484917750
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 212
+  stamp: 
+    secs: 1701290474
+    nsecs: 685226055
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 213
+  stamp: 
+    secs: 1701290474
+    nsecs: 885540353
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 214
+  stamp: 
+    secs: 1701290475
+    nsecs:  85849488
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 215
+  stamp: 
+    secs: 1701290475
+    nsecs: 286157209
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 216
+  stamp: 
+    secs: 1701290475
+    nsecs: 486414338
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 217
+  stamp: 
+    secs: 1701290475
+    nsecs: 686674080
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 218
+  stamp: 
+    secs: 1701290475
+    nsecs: 886874770
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 219
+  stamp: 
+    secs: 1701290476
+    nsecs:  87138925
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 220
+  stamp: 
+    secs: 1701290476
+    nsecs: 287401155
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 221
+  stamp: 
+    secs: 1701290476
+    nsecs: 487683532
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 222
+  stamp: 
+    secs: 1701290476
+    nsecs: 687992067
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 223
+  stamp: 
+    secs: 1701290476
+    nsecs: 888258550
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 224
+  stamp: 
+    secs: 1701290477
+    nsecs:  88580617
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 225
+  stamp: 
+    secs: 1701290477
+    nsecs: 288845188
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 226
+  stamp: 
+    secs: 1701290477
+    nsecs: 489390222
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 227
+  stamp: 
+    secs: 1701290477
+    nsecs: 689698110
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 228
+  stamp: 
+    secs: 1701290477
+    nsecs: 890005174
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 229
+  stamp: 
+    secs: 1701290478
+    nsecs:  90317670
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 230
+  stamp: 
+    secs: 1701290478
+    nsecs: 290625322
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 231
+  stamp: 
+    secs: 1701290478
+    nsecs: 490933328
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 232
+  stamp: 
+    secs: 1701290478
+    nsecs: 691228828
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 233
+  stamp: 
+    secs: 1701290478
+    nsecs: 891544689
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 234
+  stamp: 
+    secs: 1701290479
+    nsecs:  91857932
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 235
+  stamp: 
+    secs: 1701290479
+    nsecs: 292168473
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 236
+  stamp: 
+    secs: 1701290479
+    nsecs: 492573795
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 237
+  stamp: 
+    secs: 1701290479
+    nsecs: 692893681
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 238
+  stamp: 
+    secs: 1701290479
+    nsecs: 893202754
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 239
+  stamp: 
+    secs: 1701290480
+    nsecs:  93511648
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 240
+  stamp: 
+    secs: 1701290480
+    nsecs: 293820960
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 241
+  stamp: 
+    secs: 1701290480
+    nsecs: 494034805
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 242
+  stamp: 
+    secs: 1701290480
+    nsecs: 694296991
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 243
+  stamp: 
+    secs: 1701290480
+    nsecs: 894576536
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 244
+  stamp: 
+    secs: 1701290481
+    nsecs:  94856276
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 245
+  stamp: 
+    secs: 1701290481
+    nsecs: 295153806
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 246
+  stamp: 
+    secs: 1701290481
+    nsecs: 495558026
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 247
+  stamp: 
+    secs: 1701290481
+    nsecs: 695867138
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 248
+  stamp: 
+    secs: 1701290481
+    nsecs: 896177382
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 249
+  stamp: 
+    secs: 1701290482
+    nsecs:  96486782
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 250
+  stamp: 
+    secs: 1701290482
+    nsecs: 296798438
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 251
+  stamp: 
+    secs: 1701290482
+    nsecs: 497311076
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 252
+  stamp: 
+    secs: 1701290482
+    nsecs: 697616253
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 253
+  stamp: 
+    secs: 1701290482
+    nsecs: 897904532
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 254
+  stamp: 
+    secs: 1701290483
+    nsecs:  98167840
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 255
+  stamp: 
+    secs: 1701290483
+    nsecs: 298474352
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 256
+  stamp: 
+    secs: 1701290483
+    nsecs: 498862159
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 257
+  stamp: 
+    secs: 1701290483
+    nsecs: 699124489
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 258
+  stamp: 
+    secs: 1701290483
+    nsecs: 899379683
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 259
+  stamp: 
+    secs: 1701290484
+    nsecs:  99700836
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 260
+  stamp: 
+    secs: 1701290484
+    nsecs: 300059622
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 261
+  stamp: 
+    secs: 1701290484
+    nsecs: 500446783
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 262
+  stamp: 
+    secs: 1701290484
+    nsecs: 700701894
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 263
+  stamp: 
+    secs: 1701290484
+    nsecs: 901042632
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 264
+  stamp: 
+    secs: 1701290485
+    nsecs: 101332790
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 265
+  stamp: 
+    secs: 1701290485
+    nsecs: 301644394
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 266
+  stamp: 
+    secs: 1701290485
+    nsecs: 502047986
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 267
+  stamp: 
+    secs: 1701290485
+    nsecs: 702316525
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 268
+  stamp: 
+    secs: 1701290485
+    nsecs: 902632118
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 269
+  stamp: 
+    secs: 1701290486
+    nsecs: 102936165
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 270
+  stamp: 
+    secs: 1701290486
+    nsecs: 303223037
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 271
+  stamp: 
+    secs: 1701290486
+    nsecs: 503625892
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 272
+  stamp: 
+    secs: 1701290486
+    nsecs: 703889948
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 273
+  stamp: 
+    secs: 1701290486
+    nsecs: 904154575
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 274
+  stamp: 
+    secs: 1701290487
+    nsecs: 104468816
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 275
+  stamp: 
+    secs: 1701290487
+    nsecs: 304731261
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 276
+  stamp: 
+    secs: 1701290487
+    nsecs: 505266170
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 277
+  stamp: 
+    secs: 1701290487
+    nsecs: 705574073
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 278
+  stamp: 
+    secs: 1701290487
+    nsecs: 905881635
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 279
+  stamp: 
+    secs: 1701290488
+    nsecs: 106203930
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 280
+  stamp: 
+    secs: 1701290488
+    nsecs: 306513269
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 281
+  stamp: 
+    secs: 1701290488
+    nsecs: 506935172
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 282
+  stamp: 
+    secs: 1701290488
+    nsecs: 707221871
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 283
+  stamp: 
+    secs: 1701290488
+    nsecs: 907530386
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 284
+  stamp: 
+    secs: 1701290489
+    nsecs: 107840676
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 285
+  stamp: 
+    secs: 1701290489
+    nsecs: 308106198
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 286
+  stamp: 
+    secs: 1701290489
+    nsecs: 508598588
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 287
+  stamp: 
+    secs: 1701290489
+    nsecs: 708911815
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 288
+  stamp: 
+    secs: 1701290489
+    nsecs: 909221488
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 289
+  stamp: 
+    secs: 1701290490
+    nsecs: 109539199
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 290
+  stamp: 
+    secs: 1701290490
+    nsecs: 309894322
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 291
+  stamp: 
+    secs: 1701290490
+    nsecs: 510349041
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 292
+  stamp: 
+    secs: 1701290490
+    nsecs: 710636424
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 293
+  stamp: 
+    secs: 1701290490
+    nsecs: 910927419
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 294
+  stamp: 
+    secs: 1701290491
+    nsecs: 111189340
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 295
+  stamp: 
+    secs: 1701290491
+    nsecs: 311495723
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 296
+  stamp: 
+    secs: 1701290491
+    nsecs: 511896553
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 297
+  stamp: 
+    secs: 1701290491
+    nsecs: 712205756
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 298
+  stamp: 
+    secs: 1701290491
+    nsecs: 912468992
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 299
+  stamp: 
+    secs: 1701290492
+    nsecs: 112733610
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 300
+  stamp: 
+    secs: 1701290492
+    nsecs: 313044260
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 301
+  stamp: 
+    secs: 1701290492
+    nsecs: 513448318
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 302
+  stamp: 
+    secs: 1701290492
+    nsecs: 713757853
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 303
+  stamp: 
+    secs: 1701290492
+    nsecs: 914025093
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 304
+  stamp: 
+    secs: 1701290493
+    nsecs: 114336767
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 305
+  stamp: 
+    secs: 1701290493
+    nsecs: 314645233
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 306
+  stamp: 
+    secs: 1701290493
+    nsecs: 514934441
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 307
+  stamp: 
+    secs: 1701290493
+    nsecs: 715218155
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 308
+  stamp: 
+    secs: 1701290493
+    nsecs: 915527821
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 309
+  stamp: 
+    secs: 1701290494
+    nsecs: 115840376
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 310
+  stamp: 
+    secs: 1701290494
+    nsecs: 316140235
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 311
+  stamp: 
+    secs: 1701290494
+    nsecs: 516671263
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 312
+  stamp: 
+    secs: 1701290494
+    nsecs: 716978295
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 313
+  stamp: 
+    secs: 1701290494
+    nsecs: 917300299
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 314
+  stamp: 
+    secs: 1701290495
+    nsecs: 117581161
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 315
+  stamp: 
+    secs: 1701290495
+    nsecs: 317734339
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 316
+  stamp: 
+    secs: 1701290495
+    nsecs: 517981918
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 317
+  stamp: 
+    secs: 1701290495
+    nsecs: 718302727
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 318
+  stamp: 
+    secs: 1701290495
+    nsecs: 918609929
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 319
+  stamp: 
+    secs: 1701290496
+    nsecs: 118939094
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 320
+  stamp: 
+    secs: 1701290496
+    nsecs: 319233200
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 321
+  stamp: 
+    secs: 1701290496
+    nsecs: 519637045
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 322
+  stamp: 
+    secs: 1701290496
+    nsecs: 719898395
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 323
+  stamp: 
+    secs: 1701290496
+    nsecs: 920213047
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 324
+  stamp: 
+    secs: 1701290497
+    nsecs: 120524716
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 325
+  stamp: 
+    secs: 1701290497
+    nsecs: 320835439
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 326
+  stamp: 
+    secs: 1701290497
+    nsecs: 521162571
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 327
+  stamp: 
+    secs: 1701290497
+    nsecs: 721468739
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 328
+  stamp: 
+    secs: 1701290497
+    nsecs: 921775291
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 329
+  stamp: 
+    secs: 1701290498
+    nsecs: 122084814
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 330
+  stamp: 
+    secs: 1701290498
+    nsecs: 322280439
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 331
+  stamp: 
+    secs: 1701290498
+    nsecs: 522688696
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 332
+  stamp: 
+    secs: 1701290498
+    nsecs: 722928747
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 333
+  stamp: 
+    secs: 1701290498
+    nsecs: 923029730
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 334
+  stamp: 
+    secs: 1701290499
+    nsecs: 123340100
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 335
+  stamp: 
+    secs: 1701290499
+    nsecs: 323599603
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 336
+  stamp: 
+    secs: 1701290499
+    nsecs: 524106892
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 337
+  stamp: 
+    secs: 1701290499
+    nsecs: 724243398
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 338
+  stamp: 
+    secs: 1701290499
+    nsecs: 924550278
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 339
+  stamp: 
+    secs: 1701290500
+    nsecs: 124865852
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 340
+  stamp: 
+    secs: 1701290500
+    nsecs: 325186088
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 341
+  stamp: 
+    secs: 1701290500
+    nsecs: 525723232
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 342
+  stamp: 
+    secs: 1701290500
+    nsecs: 726032320
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 343
+  stamp: 
+    secs: 1701290500
+    nsecs: 926346922
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 344
+  stamp: 
+    secs: 1701290501
+    nsecs: 126680583
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 345
+  stamp: 
+    secs: 1701290501
+    nsecs: 326913452
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 346
+  stamp: 
+    secs: 1701290501
+    nsecs: 442407761
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, -0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 347
+  stamp: 
+    secs: 1701290501
+    nsecs: 446366659
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, -0.5876949429512024]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 348
+  stamp: 
+    secs: 1701290501
+    nsecs: 451331809
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, -1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 349
+  stamp: 
+    secs: 1701290501
+    nsecs: 642337678
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, -0.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 350
+  stamp: 
+    secs: 1701290501
+    nsecs: 647323185
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 0.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 351
+  stamp: 
+    secs: 1701290501
+    nsecs: 780437522
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, -0.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 352
+  stamp: 
+    secs: 1701290501
+    nsecs: 784430987
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, -1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 353
+  stamp: 
+    secs: 1701290501
+    nsecs: 985449783
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, -0.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 354
+  stamp: 
+    secs: 1701290501
+    nsecs: 990348475
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 355
+  stamp: 
+    secs: 1701290502
+    nsecs: 190668268
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 356
+  stamp: 
+    secs: 1701290502
+    nsecs: 390979723
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 357
+  stamp: 
+    secs: 1701290502
+    nsecs: 591389884
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 358
+  stamp: 
+    secs: 1701290502
+    nsecs: 791653412
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 359
+  stamp: 
+    secs: 1701290502
+    nsecs: 991989247
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 360
+  stamp: 
+    secs: 1701290503
+    nsecs: 192304716
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 361
+  stamp: 
+    secs: 1701290503
+    nsecs: 392614741
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 362
+  stamp: 
+    secs: 1701290503
+    nsecs: 593019203
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 363
+  stamp: 
+    secs: 1701290503
+    nsecs: 793147542
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 364
+  stamp: 
+    secs: 1701290503
+    nsecs: 993467447
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 365
+  stamp: 
+    secs: 1701290504
+    nsecs: 193777646
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 366
+  stamp: 
+    secs: 1701290504
+    nsecs: 394040821
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 367
+  stamp: 
+    secs: 1701290504
+    nsecs: 522271379
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 368
+  stamp: 
+    secs: 1701290504
+    nsecs: 620262331
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 369
+  stamp: 
+    secs: 1701290504
+    nsecs: 820554435
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 370
+  stamp: 
+    secs: 1701290505
+    nsecs:  20831558
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 371
+  stamp: 
+    secs: 1701290505
+    nsecs: 221099406
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 372
+  stamp: 
+    secs: 1701290505
+    nsecs: 421369388
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 373
+  stamp: 
+    secs: 1701290505
+    nsecs: 621772900
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 374
+  stamp: 
+    secs: 1701290505
+    nsecs: 822052291
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 375
+  stamp: 
+    secs: 1701290506
+    nsecs:  22316474
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 376
+  stamp: 
+    secs: 1701290506
+    nsecs: 222580397
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 377
+  stamp: 
+    secs: 1701290506
+    nsecs: 422893370
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 378
+  stamp: 
+    secs: 1701290506
+    nsecs: 623361654
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 379
+  stamp: 
+    secs: 1701290506
+    nsecs: 823618691
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 380
+  stamp: 
+    secs: 1701290507
+    nsecs:  23881970
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 381
+  stamp: 
+    secs: 1701290507
+    nsecs: 224146645
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 382
+  stamp: 
+    secs: 1701290507
+    nsecs: 424453779
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 383
+  stamp: 
+    secs: 1701290507
+    nsecs: 624918262
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 384
+  stamp: 
+    secs: 1701290507
+    nsecs: 825241561
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 385
+  stamp: 
+    secs: 1701290508
+    nsecs:  25508735
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 386
+  stamp: 
+    secs: 1701290508
+    nsecs: 206247337
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 387
+  stamp: 
+    secs: 1701290508
+    nsecs: 211219780
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 388
+  stamp: 
+    secs: 1701290508
+    nsecs: 216330512
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 389
+  stamp: 
+    secs: 1701290508
+    nsecs: 220208856
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 390
+  stamp: 
+    secs: 1701290508
+    nsecs: 420516975
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 391
+  stamp: 
+    secs: 1701290508
+    nsecs: 534477010
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.8971526026725769, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 392
+  stamp: 
+    secs: 1701290508
+    nsecs: 539273478
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.2785424292087555, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 393
+  stamp: 
+    secs: 1701290508
+    nsecs: 544292753
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 394
+  stamp: 
+    secs: 1701290508
+    nsecs: 549263631
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 395
+  stamp: 
+    secs: 1701290508
+    nsecs: 554320091
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 396
+  stamp: 
+    secs: 1701290508
+    nsecs: 558263978
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 397
+  stamp: 
+    secs: 1701290508
+    nsecs: 563233991
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 398
+  stamp: 
+    secs: 1701290508
+    nsecs: 568229408
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 399
+  stamp: 
+    secs: 1701290508
+    nsecs: 573199424
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 400
+  stamp: 
+    secs: 1701290508
+    nsecs: 578226576
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 401
+  stamp: 
+    secs: 1701290508
+    nsecs: 583125165
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 402
+  stamp: 
+    secs: 1701290508
+    nsecs: 588115532
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 403
+  stamp: 
+    secs: 1701290508
+    nsecs: 593128527
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 404
+  stamp: 
+    secs: 1701290508
+    nsecs: 598238055
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 405
+  stamp: 
+    secs: 1701290508
+    nsecs: 603193894
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 406
+  stamp: 
+    secs: 1701290508
+    nsecs: 803489335
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 407
+  stamp: 
+    secs: 1701290509
+    nsecs:   3754102
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 408
+  stamp: 
+    secs: 1701290509
+    nsecs: 204020288
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 409
+  stamp: 
+    secs: 1701290509
+    nsecs: 404282589
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 410
+  stamp: 
+    secs: 1701290509
+    nsecs: 604608435
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 411
+  stamp: 
+    secs: 1701290509
+    nsecs: 631310347
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 412
+  stamp: 
+    secs: 1701290509
+    nsecs: 636333199
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 413
+  stamp: 
+    secs: 1701290509
+    nsecs: 641240571
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 414
+  stamp: 
+    secs: 1701290509
+    nsecs: 646333827
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 0.07238990813493729, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 415
+  stamp: 
+    secs: 1701290509
+    nsecs: 651257693
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 416
+  stamp: 
+    secs: 1701290509
+    nsecs: 851377258
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 417
+  stamp: 
+    secs: 1701290510
+    nsecs:  51688070
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 418
+  stamp: 
+    secs: 1701290510
+    nsecs: 251995640
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 419
+  stamp: 
+    secs: 1701290510
+    nsecs: 452304634
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 420
+  stamp: 
+    secs: 1701290510
+    nsecs: 652612851
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 421
+  stamp: 
+    secs: 1701290510
+    nsecs: 852863608
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 422
+  stamp: 
+    secs: 1701290511
+    nsecs:  53129223
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 423
+  stamp: 
+    secs: 1701290511
+    nsecs: 253441871
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 424
+  stamp: 
+    secs: 1701290511
+    nsecs: 453771012
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 425
+  stamp: 
+    secs: 1701290511
+    nsecs: 654083484
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 426
+  stamp: 
+    secs: 1701290511
+    nsecs: 854335624
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 427
+  stamp: 
+    secs: 1701290512
+    nsecs:  54643221
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 428
+  stamp: 
+    secs: 1701290512
+    nsecs: 254928510
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 429
+  stamp: 
+    secs: 1701290512
+    nsecs: 455195017
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 430
+  stamp: 
+    secs: 1701290512
+    nsecs: 655512037
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, 1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 431
+  stamp: 
+    secs: 1701290512
+    nsecs: 782255597
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 432
+  stamp: 
+    secs: 1701290512
+    nsecs: 982576278
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 433
+  stamp: 
+    secs: 1701290513
+    nsecs: 182862684
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 434
+  stamp: 
+    secs: 1701290513
+    nsecs: 383143573
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 435
+  stamp: 
+    secs: 1701290513
+    nsecs: 583466397
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 436
+  stamp: 
+    secs: 1701290513
+    nsecs: 783784856
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 437
+  stamp: 
+    secs: 1701290513
+    nsecs: 984199870
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 438
+  stamp: 
+    secs: 1701290514
+    nsecs: 184509945
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 439
+  stamp: 
+    secs: 1701290514
+    nsecs: 310196343
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 440
+  stamp: 
+    secs: 1701290514
+    nsecs: 315197399
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 441
+  stamp: 
+    secs: 1701290514
+    nsecs: 320253188
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 442
+  stamp: 
+    secs: 1701290514
+    nsecs: 325238481
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 443
+  stamp: 
+    secs: 1701290514
+    nsecs: 330226632
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.07223731279373169, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 444
+  stamp: 
+    secs: 1701290514
+    nsecs: 335124955
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 445
+  stamp: 
+    secs: 1701290514
+    nsecs: 535402599
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 446
+  stamp: 
+    secs: 1701290514
+    nsecs: 735723390
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 447
+  stamp: 
+    secs: 1701290514
+    nsecs: 936018890
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 448
+  stamp: 
+    secs: 1701290515
+    nsecs: 136556263
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 449
+  stamp: 
+    secs: 1701290515
+    nsecs: 336863920
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 450
+  stamp: 
+    secs: 1701290515
+    nsecs: 537184174
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 451
+  stamp: 
+    secs: 1701290515
+    nsecs: 737343280
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -1.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 452
+  stamp: 
+    secs: 1701290515
+    nsecs: 839265565
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.5361186265945435, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 453
+  stamp: 
+    secs: 1701290515
+    nsecs: 844251208
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 454
+  stamp: 
+    secs: 1701290515
+    nsecs: 849206126
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 455
+  stamp: 
+    secs: 1701290515
+    nsecs: 854222112
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 456
+  stamp: 
+    secs: 1701290515
+    nsecs: 859151429
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 457
+  stamp: 
+    secs: 1701290515
+    nsecs: 864152393
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 458
+  stamp: 
+    secs: 1701290515
+    nsecs: 869243610
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 459
+  stamp: 
+    secs: 1701290515
+    nsecs: 873209298
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 460
+  stamp: 
+    secs: 1701290515
+    nsecs: 878112286
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 461
+  stamp: 
+    secs: 1701290515
+    nsecs: 893149193
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 462
+  stamp: 
+    secs: 1701290515
+    nsecs: 913083847
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 463
+  stamp: 
+    secs: 1701290515
+    nsecs: 922089783
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 464
+  stamp: 
+    secs: 1701290515
+    nsecs: 927085183
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 465
+  stamp: 
+    secs: 1701290515
+    nsecs: 932162690
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 466
+  stamp: 
+    secs: 1701290515
+    nsecs: 937219848
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 467
+  stamp: 
+    secs: 1701290515
+    nsecs: 942093796
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 468
+  stamp: 
+    secs: 1701290515
+    nsecs: 947141210
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 469
+  stamp: 
+    secs: 1701290515
+    nsecs: 952114577
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 470
+  stamp: 
+    secs: 1701290515
+    nsecs: 957117141
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 471
+  stamp: 
+    secs: 1701290516
+    nsecs: 157405735
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 472
+  stamp: 
+    secs: 1701290516
+    nsecs: 357681608
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 473
+  stamp: 
+    secs: 1701290516
+    nsecs: 557992995
+  frame_id: "/dev/input/js0"
+axes: [0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 474
+  stamp: 
+    secs: 1701290516
+    nsecs: 628220905
+  frame_id: "/dev/input/js0"
+axes: [-0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 475
+  stamp: 
+    secs: 1701290516
+    nsecs: 633224733
+  frame_id: "/dev/input/js0"
+axes: [-0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 476
+  stamp: 
+    secs: 1701290516
+    nsecs: 638225927
+  frame_id: "/dev/input/js0"
+axes: [-0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 477
+  stamp: 
+    secs: 1701290516
+    nsecs: 643110026
+  frame_id: "/dev/input/js0"
+axes: [-0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 478
+  stamp: 
+    secs: 1701290516
+    nsecs: 647150168
+  frame_id: "/dev/input/js0"
+axes: [0.33011871576309204, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 479
+  stamp: 
+    secs: 1701290516
+    nsecs: 652112345
+  frame_id: "/dev/input/js0"
+axes: [1.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 480
+  stamp: 
+    secs: 1701290516
+    nsecs: 852345581
+  frame_id: "/dev/input/js0"
+axes: [1.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 481
+  stamp: 
+    secs: 1701290517
+    nsecs:  52603195
+  frame_id: "/dev/input/js0"
+axes: [1.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 482
+  stamp: 
+    secs: 1701290517
+    nsecs: 252889388
+  frame_id: "/dev/input/js0"
+axes: [1.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 483
+  stamp: 
+    secs: 1701290517
+    nsecs: 453144863
+  frame_id: "/dev/input/js0"
+axes: [1.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 484
+  stamp: 
+    secs: 1701290517
+    nsecs: 653405216
+  frame_id: "/dev/input/js0"
+axes: [1.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 485
+  stamp: 
+    secs: 1701290517
+    nsecs: 853669502
+  frame_id: "/dev/input/js0"
+axes: [1.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 486
+  stamp: 
+    secs: 1701290518
+    nsecs:  53925003
+  frame_id: "/dev/input/js0"
+axes: [1.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 487
+  stamp: 
+    secs: 1701290518
+    nsecs: 254171344
+  frame_id: "/dev/input/js0"
+axes: [1.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 488
+  stamp: 
+    secs: 1701290518
+    nsecs: 454389587
+  frame_id: "/dev/input/js0"
+axes: [1.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 489
+  stamp: 
+    secs: 1701290518
+    nsecs: 654459402
+  frame_id: "/dev/input/js0"
+axes: [1.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 490
+  stamp: 
+    secs: 1701290518
+    nsecs: 854678747
+  frame_id: "/dev/input/js0"
+axes: [1.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 491
+  stamp: 
+    secs: 1701290519
+    nsecs:  54889440
+  frame_id: "/dev/input/js0"
+axes: [1.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 492
+  stamp: 
+    secs: 1701290519
+    nsecs: 255177512
+  frame_id: "/dev/input/js0"
+axes: [1.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 493
+  stamp: 
+    secs: 1701290519
+    nsecs: 455432410
+  frame_id: "/dev/input/js0"
+axes: [1.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 494
+  stamp: 
+    secs: 1701290519
+    nsecs: 651079724
+  frame_id: "/dev/input/js0"
+axes: [0.5362712740898132, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 495
+  stamp: 
+    secs: 1701290519
+    nsecs: 656089333
+  frame_id: "/dev/input/js0"
+axes: [-0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 496
+  stamp: 
+    secs: 1701290519
+    nsecs: 661067282
+  frame_id: "/dev/input/js0"
+axes: [-0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 497
+  stamp: 
+    secs: 1701290519
+    nsecs: 666086786
+  frame_id: "/dev/input/js0"
+axes: [-0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 498
+  stamp: 
+    secs: 1701290519
+    nsecs: 671010945
+  frame_id: "/dev/input/js0"
+axes: [-0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 499
+  stamp: 
+    secs: 1701290519
+    nsecs: 675998403
+  frame_id: "/dev/input/js0"
+axes: [-0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 500
+  stamp: 
+    secs: 1701290519
+    nsecs: 681048860
+  frame_id: "/dev/input/js0"
+axes: [-0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 501
+  stamp: 
+    secs: 1701290519
+    nsecs: 881353868
+  frame_id: "/dev/input/js0"
+axes: [-0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 502
+  stamp: 
+    secs: 1701290520
+    nsecs:  81621870
+  frame_id: "/dev/input/js0"
+axes: [-0.0, 0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 503
+  stamp: 
+    secs: 1701290520
+    nsecs: 132171691
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 504
+  stamp: 
+    secs: 1701290520
+    nsecs: 136138581
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 505
+  stamp: 
+    secs: 1701290520
+    nsecs: 141161679
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 506
+  stamp: 
+    secs: 1701290520
+    nsecs: 146058418
+  frame_id: "/dev/input/js0"
+axes: [-0.0, 1.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 507
+  stamp: 
+    secs: 1701290520
+    nsecs: 346307012
+  frame_id: "/dev/input/js0"
+axes: [-0.0, 1.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 508
+  stamp: 
+    secs: 1701290520
+    nsecs: 546621303
+  frame_id: "/dev/input/js0"
+axes: [-0.0, 1.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 509
+  stamp: 
+    secs: 1701290520
+    nsecs: 746880768
+  frame_id: "/dev/input/js0"
+axes: [-0.0, 1.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 510
+  stamp: 
+    secs: 1701290520
+    nsecs: 947168928
+  frame_id: "/dev/input/js0"
+axes: [-0.0, 1.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 511
+  stamp: 
+    secs: 1701290521
+    nsecs:  23179797
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 512
+  stamp: 
+    secs: 1701290521
+    nsecs: 223467377
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 513
+  stamp: 
+    secs: 1701290521
+    nsecs: 423874653
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 514
+  stamp: 
+    secs: 1701290521
+    nsecs: 624181757
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 515
+  stamp: 
+    secs: 1701290521
+    nsecs: 824444268
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 516
+  stamp: 
+    secs: 1701290521
+    nsecs: 905126124
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 517
+  stamp: 
+    secs: 1701290521
+    nsecs: 910145504
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 518
+  stamp: 
+    secs: 1701290521
+    nsecs: 915081167
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 519
+  stamp: 
+    secs: 1701290521
+    nsecs: 920148924
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 520
+  stamp: 
+    secs: 1701290521
+    nsecs: 925113228
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 521
+  stamp: 
+    secs: 1701290521
+    nsecs: 930161709
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 522
+  stamp: 
+    secs: 1701290521
+    nsecs: 935104526
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 523
+  stamp: 
+    secs: 1701290521
+    nsecs: 939111202
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.22681356966495514, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 524
+  stamp: 
+    secs: 1701290521
+    nsecs: 944110146
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.7938474416732788, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 525
+  stamp: 
+    secs: 1701290521
+    nsecs: 949064672
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -1.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 526
+  stamp: 
+    secs: 1701290522
+    nsecs: 149359025
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -1.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 527
+  stamp: 
+    secs: 1701290522
+    nsecs: 349682304
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -1.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 528
+  stamp: 
+    secs: 1701290522
+    nsecs: 550048411
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -1.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 529
+  stamp: 
+    secs: 1701290522
+    nsecs: 750356281
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -1.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 530
+  stamp: 
+    secs: 1701290522
+    nsecs: 950665071
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -1.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 531
+  stamp: 
+    secs: 1701290523
+    nsecs:  76084106
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 532
+  stamp: 
+    secs: 1701290523
+    nsecs: 276245842
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 533
+  stamp: 
+    secs: 1701290523
+    nsecs: 476557655
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 534
+  stamp: 
+    secs: 1701290523
+    nsecs: 676964152
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 535
+  stamp: 
+    secs: 1701290523
+    nsecs: 877268585
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 536
+  stamp: 
+    secs: 1701290524
+    nsecs:  77585715
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 537
+  stamp: 
+    secs: 1701290524
+    nsecs: 277897082
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 538
+  stamp: 
+    secs: 1701290524
+    nsecs: 478210762
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 539
+  stamp: 
+    secs: 1701290524
+    nsecs: 678573167
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 540
+  stamp: 
+    secs: 1701290524
+    nsecs: 878906022
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 541
+  stamp: 
+    secs: 1701290525
+    nsecs:  79195513
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 542
+  stamp: 
+    secs: 1701290525
+    nsecs: 279542423
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 543
+  stamp: 
+    secs: 1701290525
+    nsecs: 479704837
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 544
+  stamp: 
+    secs: 1701290525
+    nsecs: 680100976
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 545
+  stamp: 
+    secs: 1701290525
+    nsecs: 880368977
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 546
+  stamp: 
+    secs: 1701290526
+    nsecs:  80638575
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 547
+  stamp: 
+    secs: 1701290526
+    nsecs: 280764368
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 548
+  stamp: 
+    secs: 1701290526
+    nsecs: 481030178
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 549
+  stamp: 
+    secs: 1701290526
+    nsecs: 681456202
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 550
+  stamp: 
+    secs: 1701290526
+    nsecs: 881622773
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 551
+  stamp: 
+    secs: 1701290527
+    nsecs:  81941656
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 552
+  stamp: 
+    secs: 1701290527
+    nsecs: 282251480
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 553
+  stamp: 
+    secs: 1701290527
+    nsecs: 482572085
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 554
+  stamp: 
+    secs: 1701290527
+    nsecs: 682942246
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 555
+  stamp: 
+    secs: 1701290527
+    nsecs: 883200788
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 556
+  stamp: 
+    secs: 1701290528
+    nsecs:  83524700
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 557
+  stamp: 
+    secs: 1701290528
+    nsecs: 283834882
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 558
+  stamp: 
+    secs: 1701290528
+    nsecs: 484157242
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 559
+  stamp: 
+    secs: 1701290528
+    nsecs: 684638947
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 560
+  stamp: 
+    secs: 1701290528
+    nsecs: 884907190
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 561
+  stamp: 
+    secs: 1701290529
+    nsecs:  85164922
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 562
+  stamp: 
+    secs: 1701290529
+    nsecs: 285431179
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 563
+  stamp: 
+    secs: 1701290529
+    nsecs: 485744263
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 564
+  stamp: 
+    secs: 1701290529
+    nsecs: 686151622
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 565
+  stamp: 
+    secs: 1701290529
+    nsecs: 886458189
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 566
+  stamp: 
+    secs: 1701290530
+    nsecs:  86714394
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 567
+  stamp: 
+    secs: 1701290530
+    nsecs: 286946276
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 568
+  stamp: 
+    secs: 1701290530
+    nsecs: 487234485
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 569
+  stamp: 
+    secs: 1701290530
+    nsecs: 687774784
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 570
+  stamp: 
+    secs: 1701290530
+    nsecs: 888037956
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 571
+  stamp: 
+    secs: 1701290531
+    nsecs:  88271278
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 572
+  stamp: 
+    secs: 1701290531
+    nsecs: 288560390
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 573
+  stamp: 
+    secs: 1701290531
+    nsecs: 488870851
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 574
+  stamp: 
+    secs: 1701290531
+    nsecs: 689420623
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 575
+  stamp: 
+    secs: 1701290531
+    nsecs: 889728173
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 576
+  stamp: 
+    secs: 1701290532
+    nsecs:  90045963
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 577
+  stamp: 
+    secs: 1701290532
+    nsecs: 290332649
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 578
+  stamp: 
+    secs: 1701290532
+    nsecs: 490638620
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 579
+  stamp: 
+    secs: 1701290532
+    nsecs: 690926284
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 580
+  stamp: 
+    secs: 1701290532
+    nsecs: 891224045
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 581
+  stamp: 
+    secs: 1701290533
+    nsecs:  91498703
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 582
+  stamp: 
+    secs: 1701290533
+    nsecs: 291826455
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 583
+  stamp: 
+    secs: 1701290533
+    nsecs: 492093919
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 584
+  stamp: 
+    secs: 1701290533
+    nsecs: 692497045
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 585
+  stamp: 
+    secs: 1701290533
+    nsecs: 892765606
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 586
+  stamp: 
+    secs: 1701290534
+    nsecs:  93079039
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 587
+  stamp: 
+    secs: 1701290534
+    nsecs: 293391123
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 588
+  stamp: 
+    secs: 1701290534
+    nsecs: 493622025
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 589
+  stamp: 
+    secs: 1701290534
+    nsecs: 694136095
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 590
+  stamp: 
+    secs: 1701290534
+    nsecs: 894446341
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 591
+  stamp: 
+    secs: 1701290535
+    nsecs:  94762257
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 592
+  stamp: 
+    secs: 1701290535
+    nsecs: 294928853
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 593
+  stamp: 
+    secs: 1701290535
+    nsecs: 495218912
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 594
+  stamp: 
+    secs: 1701290535
+    nsecs: 695601745
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 595
+  stamp: 
+    secs: 1701290535
+    nsecs: 895914827
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 596
+  stamp: 
+    secs: 1701290536
+    nsecs:  96204334
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 597
+  stamp: 
+    secs: 1701290536
+    nsecs: 296514805
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 598
+  stamp: 
+    secs: 1701290536
+    nsecs: 496783650
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 599
+  stamp: 
+    secs: 1701290536
+    nsecs: 697198152
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 600
+  stamp: 
+    secs: 1701290536
+    nsecs: 897521949
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 601
+  stamp: 
+    secs: 1701290537
+    nsecs:  97788185
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 602
+  stamp: 
+    secs: 1701290537
+    nsecs: 298096101
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 603
+  stamp: 
+    secs: 1701290537
+    nsecs: 498404471
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 604
+  stamp: 
+    secs: 1701290537
+    nsecs: 698757878
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 605
+  stamp: 
+    secs: 1701290537
+    nsecs: 898879292
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 606
+  stamp: 
+    secs: 1701290538
+    nsecs:  99145310
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 607
+  stamp: 
+    secs: 1701290538
+    nsecs: 299450828
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 608
+  stamp: 
+    secs: 1701290538
+    nsecs: 499605311
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 609
+  stamp: 
+    secs: 1701290538
+    nsecs: 699938725
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 610
+  stamp: 
+    secs: 1701290538
+    nsecs: 900247300
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 611
+  stamp: 
+    secs: 1701290539
+    nsecs: 100569988
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 612
+  stamp: 
+    secs: 1701290539
+    nsecs: 300856451
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 613
+  stamp: 
+    secs: 1701290539
+    nsecs: 501151019
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 614
+  stamp: 
+    secs: 1701290539
+    nsecs: 701490950
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 615
+  stamp: 
+    secs: 1701290539
+    nsecs: 901800779
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 616
+  stamp: 
+    secs: 1701290540
+    nsecs: 102074654
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 617
+  stamp: 
+    secs: 1701290540
+    nsecs: 302389090
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 618
+  stamp: 
+    secs: 1701290540
+    nsecs: 502548380
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 619
+  stamp: 
+    secs: 1701290540
+    nsecs: 702944336
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 620
+  stamp: 
+    secs: 1701290540
+    nsecs: 903226275
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 621
+  stamp: 
+    secs: 1701290541
+    nsecs: 103491855
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 622
+  stamp: 
+    secs: 1701290541
+    nsecs: 303642912
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 623
+  stamp: 
+    secs: 1701290541
+    nsecs: 503957198
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 624
+  stamp: 
+    secs: 1701290541
+    nsecs: 704370065
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 625
+  stamp: 
+    secs: 1701290541
+    nsecs: 904679840
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 626
+  stamp: 
+    secs: 1701290542
+    nsecs: 104993802
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 627
+  stamp: 
+    secs: 1701290542
+    nsecs: 305303324
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 628
+  stamp: 
+    secs: 1701290542
+    nsecs: 505612663
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 629
+  stamp: 
+    secs: 1701290542
+    nsecs: 705966748
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 630
+  stamp: 
+    secs: 1701290542
+    nsecs: 906286389
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 631
+  stamp: 
+    secs: 1701290543
+    nsecs: 106428203
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 632
+  stamp: 
+    secs: 1701290543
+    nsecs: 306757483
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 633
+  stamp: 
+    secs: 1701290543
+    nsecs: 506880092
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 634
+  stamp: 
+    secs: 1701290543
+    nsecs: 707288131
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 635
+  stamp: 
+    secs: 1701290543
+    nsecs: 907611161
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 636
+  stamp: 
+    secs: 1701290544
+    nsecs: 107921599
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 637
+  stamp: 
+    secs: 1701290544
+    nsecs: 308212979
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 638
+  stamp: 
+    secs: 1701290544
+    nsecs: 508522692
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 639
+  stamp: 
+    secs: 1701290544
+    nsecs: 709019962
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 640
+  stamp: 
+    secs: 1701290544
+    nsecs: 909334123
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 641
+  stamp: 
+    secs: 1701290545
+    nsecs: 109650602
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 642
+  stamp: 
+    secs: 1701290545
+    nsecs: 309966876
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 643
+  stamp: 
+    secs: 1701290545
+    nsecs: 510278498
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 644
+  stamp: 
+    secs: 1701290545
+    nsecs: 710689613
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 645
+  stamp: 
+    secs: 1701290545
+    nsecs: 910940546
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 646
+  stamp: 
+    secs: 1701290546
+    nsecs: 111238606
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 647
+  stamp: 
+    secs: 1701290546
+    nsecs: 311548576
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 648
+  stamp: 
+    secs: 1701290546
+    nsecs: 511860429
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 649
+  stamp: 
+    secs: 1701290546
+    nsecs: 712326289
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 650
+  stamp: 
+    secs: 1701290546
+    nsecs: 912649183
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 651
+  stamp: 
+    secs: 1701290547
+    nsecs: 112806503
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 652
+  stamp: 
+    secs: 1701290547
+    nsecs: 312868856
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 653
+  stamp: 
+    secs: 1701290547
+    nsecs: 513175903
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 654
+  stamp: 
+    secs: 1701290547
+    nsecs: 713592880
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 655
+  stamp: 
+    secs: 1701290547
+    nsecs: 913866977
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 656
+  stamp: 
+    secs: 1701290548
+    nsecs: 114154753
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 657
+  stamp: 
+    secs: 1701290548
+    nsecs: 314467924
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 658
+  stamp: 
+    secs: 1701290548
+    nsecs: 514742770
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 659
+  stamp: 
+    secs: 1701290548
+    nsecs: 715057285
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 660
+  stamp: 
+    secs: 1701290548
+    nsecs: 915365924
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 661
+  stamp: 
+    secs: 1701290549
+    nsecs: 115628596
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 662
+  stamp: 
+    secs: 1701290549
+    nsecs: 315899754
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 663
+  stamp: 
+    secs: 1701290549
+    nsecs: 516170565
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 664
+  stamp: 
+    secs: 1701290549
+    nsecs: 716569872
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 665
+  stamp: 
+    secs: 1701290549
+    nsecs: 916886326
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 666
+  stamp: 
+    secs: 1701290550
+    nsecs: 117198458
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 667
+  stamp: 
+    secs: 1701290550
+    nsecs: 317508261
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 668
+  stamp: 
+    secs: 1701290550
+    nsecs: 517776864
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 669
+  stamp: 
+    secs: 1701290550
+    nsecs: 718190066
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 670
+  stamp: 
+    secs: 1701290550
+    nsecs: 918523422
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 671
+  stamp: 
+    secs: 1701290551
+    nsecs: 118893079
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 672
+  stamp: 
+    secs: 1701290551
+    nsecs: 319195071
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 673
+  stamp: 
+    secs: 1701290551
+    nsecs: 519506524
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 674
+  stamp: 
+    secs: 1701290551
+    nsecs: 719718445
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 675
+  stamp: 
+    secs: 1701290551
+    nsecs: 920027369
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 676
+  stamp: 
+    secs: 1701290552
+    nsecs: 120336101
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 677
+  stamp: 
+    secs: 1701290552
+    nsecs: 320647422
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 678
+  stamp: 
+    secs: 1701290552
+    nsecs: 520957486
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 679
+  stamp: 
+    secs: 1701290552
+    nsecs: 721343399
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 680
+  stamp: 
+    secs: 1701290552
+    nsecs: 921614370
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 681
+  stamp: 
+    secs: 1701290553
+    nsecs: 121974482
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 682
+  stamp: 
+    secs: 1701290553
+    nsecs: 322125305
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 683
+  stamp: 
+    secs: 1701290553
+    nsecs: 522439599
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 684
+  stamp: 
+    secs: 1701290553
+    nsecs: 722880408
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 685
+  stamp: 
+    secs: 1701290553
+    nsecs: 923150044
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 686
+  stamp: 
+    secs: 1701290554
+    nsecs: 123463321
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 687
+  stamp: 
+    secs: 1701290554
+    nsecs: 323730054
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 688
+  stamp: 
+    secs: 1701290554
+    nsecs: 524050802
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 689
+  stamp: 
+    secs: 1701290554
+    nsecs: 724466864
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 690
+  stamp: 
+    secs: 1701290554
+    nsecs: 924537629
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 691
+  stamp: 
+    secs: 1701290555
+    nsecs: 124651044
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 692
+  stamp: 
+    secs: 1701290555
+    nsecs: 324968370
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 693
+  stamp: 
+    secs: 1701290555
+    nsecs: 525175220
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 694
+  stamp: 
+    secs: 1701290555
+    nsecs: 725588864
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 695
+  stamp: 
+    secs: 1701290555
+    nsecs: 925879456
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 696
+  stamp: 
+    secs: 1701290556
+    nsecs: 126188060
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 697
+  stamp: 
+    secs: 1701290556
+    nsecs: 326497264
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 698
+  stamp: 
+    secs: 1701290556
+    nsecs: 526823976
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 699
+  stamp: 
+    secs: 1701290556
+    nsecs: 727358483
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 700
+  stamp: 
+    secs: 1701290556
+    nsecs: 927668532
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 701
+  stamp: 
+    secs: 1701290557
+    nsecs: 127969933
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 702
+  stamp: 
+    secs: 1701290557
+    nsecs: 328278590
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 703
+  stamp: 
+    secs: 1701290557
+    nsecs: 528587313
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 704
+  stamp: 
+    secs: 1701290557
+    nsecs: 729586280
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 705
+  stamp: 
+    secs: 1701290557
+    nsecs: 929717460
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 706
+  stamp: 
+    secs: 1701290558
+    nsecs: 130013480
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 707
+  stamp: 
+    secs: 1701290558
+    nsecs: 330296432
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 708
+  stamp: 
+    secs: 1701290558
+    nsecs: 530559734
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 709
+  stamp: 
+    secs: 1701290558
+    nsecs: 730939780
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 710
+  stamp: 
+    secs: 1701290558
+    nsecs: 931202326
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 711
+  stamp: 
+    secs: 1701290559
+    nsecs: 131499840
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 712
+  stamp: 
+    secs: 1701290559
+    nsecs: 331769806
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 713
+  stamp: 
+    secs: 1701290559
+    nsecs: 532039377
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 714
+  stamp: 
+    secs: 1701290559
+    nsecs: 732544054
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 715
+  stamp: 
+    secs: 1701290559
+    nsecs: 932860422
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
+header: 
+  seq: 716
+  stamp: 
+    secs: 1701290560
+    nsecs: 133181404
+  frame_id: "/dev/input/js0"
+axes: [-0.0, -0.0, 1.0, 0.0, -0.0, 1.0]
+buttons: [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+---
